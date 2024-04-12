@@ -1,0 +1,67 @@
+* {
+  
+  background-color: #31363F;
+}
+
+
+
+nav ul{
+  list-style-type: none;
+  display: flex;
+  flex-grow: 1;
+  background-color: #31363F;
+  height: 100px;
+  gap: 2px;
+  
+}
+ul li{
+  
+  flex-grow: 1;
+  align-content: center;
+  text-align: center;
+  
+}
+
+
+
+
+#git img {
+  width: 50px;
+  height: 30px;
+}
+
+#canva img {
+  width: 45px;
+  height: 45px;
+}
+
+#site img {
+    width: 45px;
+    height: 45px;
+  }
+
+#titre {
+  font-family: 'DejaVu';
+}
+
+#name {
+  
+  position: absolute;
+  color: #FDA403;
+  width: 250px;
+  height: auto;
+  font-size: 30px;
+  text-align: right;
+  left: calc(60vh);
+  top: 50%;
+
+  
+}
+
+
+
+
+
+
+
+
