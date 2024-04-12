@@ -1,0 +1,68 @@
+Devoir préparatoire - versionning (VCS)
+
+Culture Générale et Technique
+
+1) Fondamentaux du versionning
+
+    recherche : Qu'est que le versionning et pourquoi est-il important dans les developpement de logiciels ?
+
+    Résultat : 
+
+        définition : le contrôle de version / contrôle de source = pratique qui consiste à suivre et gérer les changement apportés au code d'un logiciel.
+                     les outils de controle de version  = permet à l'équipe de développement de gérer les changement apportés au code source.
+                     travail + rapidement + intélligement
+
+        Fonctionnement : var code source = pièce centrale --> à protégé VS catastrophe/imprévue/erreur humaine
+                         
+                         les dev de l'équipe rajoute continuellement du code (modifie le code source !!)
+                         projet => structuré en arborescence de fichier
+                         les devs peuvent travailler sur des branche du projet en parallèle
+
+                         PB : tâche concommitantes / une partie du logiciel peut être incompatible avec le travail des autres devs
+
+                              il faut identifié et résoudre ses problèmes sans bloquer la progression du projet (du travail de l'équipe)
+                              chaque manipulation peut entraîner un bug 
+
+                              les test se font donc en parralèle du developpement
+                              jusqu'à nouvelle version
+
+        Les logiciels de contrôle de version :
+
+            _ doit être flexible (workflow dev prise en charge)
+            _ accéssible (système d'exploitation)
+            _ assure un flux continue de changement de code != verrouillage de fichier => empêche d'autre dev de travailler en parralèle
+
+            avantage : 
+
+                _ plus rapide (lorsque maîtrisé)
+                _ rester éfficace
+                _ agile => suivi
+                _ fléxible
+
+Git/Github
+
+Git est un VCS distribué  != un VCS centralisé inconvéniant => instance unique, centralisée : si perte, alors perte de données => code source devra être remplacée
+    
+    l'avantage c'est que github permet de conserver une copie complète du code source sur chaque instance (branche)
+    une nouvelle instance pourra être mise en place pour piloter le developpement
+    => évite les blocage et donc les chutes de productivitée
+
+    Git/autres VCS      //Linus Torvalds insatifait de CVS (système le plus utilisé à l'époque 2005) à créé Git pour répondre au besoin spec de linux => distribué
+
+        _ système de contrôle de verion distribué => rapide
+        _ système de branche => travail en // sur plusieurs version du projet (commit) + fusion pour créer une version stable.
+        _ open source
+        _ simple à maîtriser != SVN/CVS
+        _ automatisation du processus de déploiement
+        _ MAJ auto du code source à chaque modif (hook)
+        _ script automatisé pour event spec (commit, fusion de branche)
+        _ restaurer une version antérieur
+
+
+
+                                  
+
+                        
+
+
+    
