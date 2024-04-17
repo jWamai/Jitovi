@@ -542,5 +542,107 @@ procédure absence :
 
 A.monnier@cii-formation.nc tel: 243145
 
+### journée du 17/04
+
+  matinée : 
+  * 8h00 => news
+  * 9h00 => comparaison de l'ancien REAC avec le nouveau ==> ekip "vault-tec" : évaluation des compérence et organisation de l'épreuve
+    
+    => lien du tableau blanc (canva) avec patou et nono ==> https://www.canva.com/design/DAGCjYIp8M0/13UOTCZlzaqFWEqUUC17RA/edit?utm_content=DAGCjYIp8M0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+  #### liste des compétences :
+
+  * Installer et configurer son environnement de travail en fonction du projet web ou web mobile :
+  
+    =>
+
+  * Maquetter des interfaces utilisateur web ou web mobile
+
+  * Réaliser des interfaces utilisateur statiques web ou web mobile
+
+  * Développer la partie dynamique des interfaces utilisateur web ou web mobile
+
+  * Mettre en place une base de données relationnelle
+
+  * Développer des composants d'accès aux données SQL et NoSQL
+
+  * Développer des composants métier coté serveur
+
+  * Documenter le déploiement d'une application dynamique web ou web mobile
+
+devopS / Les points clés
+
+ * fusion des rôle : collaboration des dev avec admin système (TAI) 
+ * automatisation : automatiser certain procéssus pour vitesse de déploiement
+ * culture de la collaboration : 
+
+ 10h => présentation du calendrier de formation (épreuve, j-férier)
+
+ après-midi
+
+  * avec christophe => C1 : installation/configuration de l'environnement numérique
+
+  #### C1
+
+  * les différent élément matériel
+  * les différent élément logiciels
+  * les outils "metiers"
+  * les outils collaboratif
+
+  **les différent élément matériels**
+
+  _travail en groupe_
+
+  RAM => 
+  Alimentation =>
+  Processeur =>
+  carte mère =>
+  boîtier =>
+  disque dur =>
+  carte graphique
+  carte réseau =>
+
+  consigne : dessiner un ordinateur (format portarait) avec les 8 mots donnés => durée 15 min
+  présenter le dessin d'une autre équipe. (ajouter le nom de votre ékip en bas à droite) vault- tec
 
 
+  **les différent élément logiciels**
+
+
+
+
+
+  **les outils "metiers"**
+
+
+  **les outils collaboratif**
+
+
+
+
+note (à appronfondir) : 
+
+ROM => démarre ordi
+Bios => logiciel qui dit à l'ordi de démarrer / affichage semi graphique : caractère bizzard / va chercher le système d'exploitation
+
+système d'exploitation => logiciel qui fait tourner l'ordinateur / se trouve sur disque dur
+
+ex : Window => 7, 8, 8.1, 10, 11
+     linux => UBUNTU, Red Hat, Arch
+     UNIX => HP/UX, IBM/AIX, Sem Solaris
+
+
+CPU <=> RAM <=> OS (système d'exploitaion)
+
+
+HDD => disque dur méca
+SSD => pas d'élément méca / plus rapide
+M2 => connecter direct à la carte mère donc très rapide
+
+le CPU récupe le système d'exploitation (dans le disque dur) et l'envoie au RAM
+
+swapper => lorsque le logiciel à besoin de plus de ram, le processeur récupère des GO dans le disque dur pour compléter les ram
+
+VMWare (es-xi)
+
+serveur délocalisé => rac contenant des composant 
