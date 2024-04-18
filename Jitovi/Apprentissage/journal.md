@@ -581,3 +581,71 @@ devopS / Les points clés
  après-midi
 
   * avec christophe => C1 : installation/configuration de l'environnement numérique
+<<<<<<< HEAD:Jitovi/Apprentissage/journal.md
+=======
+
+  #### C1
+
+  * les différent élément matériel
+  * les différent élément logiciels
+  * les outils "metiers"
+  * les outils collaboratif
+
+  **les différent élément matériels**
+
+  _travail en groupe_
+
+  RAM => 
+  Alimentation =>
+  Processeur =>
+  carte mère =>
+  boîtier =>
+  disque dur =>
+  carte graphique
+  carte réseau =>
+
+  consigne : dessiner un ordinateur (format portarait) avec les 8 mots donnés => durée 15 min
+  présenter le dessin d'une autre équipe. (ajouter le nom de votre ékip en bas à droite) vault- tec
+
+
+  **les différent élément logiciels**
+
+
+
+
+
+  **les outils "metiers"**
+
+
+  **les outils collaboratif**
+
+
+
+
+note (à appronfondir) : 
+
+ROM => démarre ordi
+Bios => logiciel qui dit à l'ordi de démarrer / affichage semi graphique : caractère bizzard / va chercher le système d'exploitation
+
+système d'exploitation => logiciel qui fait tourner l'ordinateur / se trouve sur disque dur
+
+ex : Window => 7, 8, 8.1, 10, 11
+     linux => UBUNTU, Red Hat, Arch
+     UNIX => HP/UX, IBM/AIX, Sem Solaris
+
+
+CPU <=> RAM <=> OS (système d'exploitaion)
+
+
+HDD => disque dur méca
+SSD => pas d'élément méca / plus rapide
+M2 => connecter direct à la carte mère donc très rapide
+
+le CPU récupe le système d'exploitation (dans le disque dur) et l'envoie au RAM
+
+swapper => lorsque le logiciel à besoin de plus de ram, le processeur récupère des GO dans le disque dur pour compléter les ram
+
+VMWare (es-xi)
+
+serveur délocalisé => rac contenant des composant 
+>>>>>>> 9da40b6406f4303cc55f8b18be77ac18741e31d8:Apprentissage/journal.md

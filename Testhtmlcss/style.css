@@ -1,0 +1,17 @@
+body {
+    
+    background-color: #c0a0a0;
+    height: 300cap;
+}
+
+#navbar {
+    position: sticky;
+    background-color: rgb(150, 82, 0);
+
+    left: 115cap;
+    width: 15%;
+    height: 30cap;
+
+    top: 10%;
+
+}
