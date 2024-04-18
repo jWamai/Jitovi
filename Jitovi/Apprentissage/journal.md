@@ -463,3 +463,121 @@ Retour globales les groupes sont aller trop loin dans la réflexion
 L'architecture affiche juste le titre de chaque page et l'ordre dans lequel on y accède. 
 Attention le dossier projet demande une architecture, il ne faut pas faire de hors sujet. 
 Veille de la semaine réseau : Protocol, client/serveurs, requêtes, serveur
+
+## Semain 1
+
+### journée du 15/04
+
+journée cohésion 
+
+matinée :
+
+  * Bilan de la prépa
+  * annonce programme
+  * jeux time's up
+
+après-midi :
+
+environnement de travail :
+  
+  * actualité fonctionne pour les news 
+  * teste de travail en distanciel avec TEAMS
+
+  ### journée du 16/04
+
+  matinée :
+
+  * 2 jours fo english => presentation / devoirs ; news en anglais
+
+  après midi
+  * news 11h
+  * 13h exo : fouiller dans le doc (ancien vs new)
+
+  * 15h : les droit
+
+
+**note : recherche (adobe première, davinciResolv, liquide pogrammable)**
+
+
+
+
+### Les droits (en tant q'alternant)
+
+diférence salarié / alternant
+
+pour participé à des formation/évennement entreprise en période cci => il faut une autorisation
+
+pour alternant => droit de la cafat imédiat.
+
+négociation rémunération : possible mais c'est chaud !
+
+CCS => contribution calédonienne social
+mutuelle => prélevable par l'entreprise car salarié si pas de mutuelle
+
+c'est l'entreprise qui te paye bondjeu !!!!
+
+exonéré => paye pas de charge sociale
+
+carrence => jour ou tu n'est pas payé
+
+1er jour de maladie (100%)
+2 ème jour (90%)
+3éme jour => 3 jour de carrence 
+
+avec la cafat 50% amorti
+
+procédure absence : 
+ * si abs cci => arrêt de travail + entrepris 
+ * si abs entreprise => entreprise 
+
+ medecin 4250 =>cafat 40% mutuelle 60%
+
+ tous les mois on a 2.5 jours de congés
+
+ congés exceptionnel
+  * mariage
+  * naissance
+  * décès conjoint/enfant
+  * jdc
+
+A.monnier@cii-formation.nc tel: 243145
+
+### journée du 17/04
+
+  matinée : 
+  * 8h00 => news
+  * 9h00 => comparaison de l'ancien REAC avec le nouveau ==> ekip "vault-tec" : évaluation des compérence et organisation de l'épreuve
+    
+    => lien du tableau blanc (canva) avec patou et nono ==> https://www.canva.com/design/DAGCjYIp8M0/13UOTCZlzaqFWEqUUC17RA/edit?utm_content=DAGCjYIp8M0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+  #### liste des compétences :
+
+  * Installer et configurer son environnement de travail en fonction du projet web ou web mobile :
+  
+    =>
+
+  * Maquetter des interfaces utilisateur web ou web mobile
+
+  * Réaliser des interfaces utilisateur statiques web ou web mobile
+
+  * Développer la partie dynamique des interfaces utilisateur web ou web mobile
+
+  * Mettre en place une base de données relationnelle
+
+  * Développer des composants d'accès aux données SQL et NoSQL
+
+  * Développer des composants métier coté serveur
+
+  * Documenter le déploiement d'une application dynamique web ou web mobile
+
+devopS / Les points clés
+
+ * fusion des rôle : collaboration des dev avec admin système (TAI) 
+ * automatisation : automatiser certain procéssus pour vitesse de déploiement
+ * culture de la collaboration : 
+
+ 10h => présentation du calendrier de formation (épreuve, j-férier)
+
+ après-midi
+
+  * avec christophe => C1 : installation/configuration de l'environnement numérique
