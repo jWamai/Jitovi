@@ -1,0 +1,32 @@
+body {
+    background-color: #565050;
+}
+
+/* header */
+
+header {
+    background-color: #786764;
+    height: 20cap;
+    width: 100%;
+}
+
+/* box */
+
+.box {
+    display: flex;
+    background-color: rgb(173, 153, 153);
+    list-style-type: none;
+    height: 100%;
+}
+
+
+/* liste */
+
+li {
+    background-color: rgb(151, 176, 168);
+    flex-grow: 1;
+    height: 100px;
+    margin: none;
+}
+
+
